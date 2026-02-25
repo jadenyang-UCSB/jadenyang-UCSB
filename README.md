@@ -3,4 +3,4 @@ Hi there, I'm Jaden Yang and a computer science major at UCSB. I'm excited to so
 
 ##📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadenyang/)
-# jadenyang-UCSB
+
